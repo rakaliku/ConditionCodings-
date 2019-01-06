@@ -6,7 +6,8 @@ public class ForLoopCoding1 {
 int i=0;
 for (i=0;i<6;i++)
 {
-	System.out.println(i);
+	System.out.println(i)	;
+    System.out.println("ForLoop 1st program");
 }
 
 	}
